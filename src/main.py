@@ -178,3 +178,5 @@ if __name__ == '__main__':
 # Add multi-stream inference support for batching [2025-06-12T09:13:02]
 
 # Optimize CUDA kernel shared memory allocation [2025-06-16T18:51:28]
+
+# Add calibration cache reuse across model builds [2025-06-17T19:42:26]
