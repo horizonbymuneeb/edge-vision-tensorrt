@@ -45,3 +45,5 @@ def format_number(n: int) -> str:
     return f"{n:.1f}T"
 
 # Add multi-stream inference support for batching [2025-06-16T12:51:14]
+
+# Add dynamic batching Support in engine [2025-06-18T10:17:11]
