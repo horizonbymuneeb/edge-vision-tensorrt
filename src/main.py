@@ -180,3 +180,5 @@ if __name__ == '__main__':
 # Optimize CUDA kernel shared memory allocation [2025-06-16T18:51:28]
 
 # Add calibration cache reuse across model builds [2025-06-17T19:42:26]
+
+# Add ONNX Simplifier preprocessing step [2025-06-19T17:50:05]
