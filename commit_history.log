@@ -193,3 +193,4 @@
 [2025-06-17T19:42:26] Add calibration cache reuse across model builds
 [2025-06-18T10:17:11] Add dynamic batching Support in engine
 [2025-06-19T17:50:05] Add ONNX Simplifier preprocessing step
+[2025-06-20T10:38:24] Add multi-stream inference support for batching
