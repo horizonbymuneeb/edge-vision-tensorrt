@@ -182,3 +182,5 @@ if __name__ == '__main__':
 # Add calibration cache reuse across model builds [2025-06-17T19:42:26]
 
 # Add ONNX Simplifier preprocessing step [2025-06-19T17:50:05]
+
+# Implement engine serialization for Jetson [2025-06-24T15:08:30]
