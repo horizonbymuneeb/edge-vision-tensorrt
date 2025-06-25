@@ -184,3 +184,5 @@ if __name__ == '__main__':
 # Add ONNX Simplifier preprocessing step [2025-06-19T17:50:05]
 
 # Implement engine serialization for Jetson [2025-06-24T15:08:30]
+
+# Fix race condition in async inference pipeline [2025-06-25T16:47:08]
