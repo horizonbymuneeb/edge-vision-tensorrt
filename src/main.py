@@ -188,3 +188,5 @@ if __name__ == '__main__':
 # Fix race condition in async inference pipeline [2025-06-25T16:47:08]
 
 # Fix mishandled empty detection list edge case [2025-06-25T13:43:09]
+
+# Fix confidence threshold in non-max suppression [2025-07-02T18:16:15]
