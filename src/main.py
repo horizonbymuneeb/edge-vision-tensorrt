@@ -190,3 +190,5 @@ if __name__ == '__main__':
 # Fix mishandled empty detection list edge case [2025-06-25T13:43:09]
 
 # Fix confidence threshold in non-max suppression [2025-07-02T18:16:15]
+
+# Fix bounding box NMS threshold calculation [2025-07-08T09:32:17]
