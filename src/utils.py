@@ -53,3 +53,5 @@ def format_number(n: int) -> str:
 # Update TensorRT plugin structure for new API [2025-06-23T19:52:33]
 
 # Fix confidence threshold in non-max suppression [2025-07-03T12:26:31]
+
+# Optimize kernel launch overhead reduction [2025-07-08T17:23:33]
