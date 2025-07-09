@@ -192,3 +192,5 @@ if __name__ == '__main__':
 # Fix confidence threshold in non-max suppression [2025-07-02T18:16:15]
 
 # Fix bounding box NMS threshold calculation [2025-07-08T09:32:17]
+
+# Optimize letterbox resize kernel Performance [2025-07-09T10:45:15]
