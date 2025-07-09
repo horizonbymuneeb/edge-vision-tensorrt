@@ -55,3 +55,5 @@ def format_number(n: int) -> str:
 # Fix confidence threshold in non-max suppression [2025-07-03T12:26:31]
 
 # Optimize kernel launch overhead reduction [2025-07-08T17:23:33]
+
+# Add FP16 fallback on unsupported operations [2025-07-09T20:05:14]
