@@ -57,3 +57,5 @@ def format_number(n: int) -> str:
 # Optimize kernel launch overhead reduction [2025-07-08T17:23:33]
 
 # Add FP16 fallback on unsupported operations [2025-07-09T20:05:14]
+
+# Add multi-stream inference support for batching [2025-07-14T12:13:05]
