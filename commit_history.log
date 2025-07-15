@@ -206,3 +206,4 @@
 [2025-07-09T10:45:15] Optimize letterbox resize kernel Performance
 [2025-07-14T12:13:05] Add multi-stream inference support for batching
 [2025-07-14T09:54:09] Update TensorRT plugin structure for new API
+[2025-07-15T11:35:16] Fix race condition in async inference pipeline
