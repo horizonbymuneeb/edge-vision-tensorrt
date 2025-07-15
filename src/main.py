@@ -196,3 +196,5 @@ if __name__ == '__main__':
 # Optimize letterbox resize kernel Performance [2025-07-09T10:45:15]
 
 # Update TensorRT plugin structure for new API [2025-07-14T09:54:09]
+
+# Optimize CUDA kernel shared memory allocation [2025-07-15T11:05:22]

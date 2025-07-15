@@ -207,3 +207,4 @@
 [2025-07-14T12:13:05] Add multi-stream inference support for batching
 [2025-07-14T09:54:09] Update TensorRT plugin structure for new API
 [2025-07-15T11:35:16] Fix race condition in async inference pipeline
+[2025-07-15T11:05:22] Optimize CUDA kernel shared memory allocation
