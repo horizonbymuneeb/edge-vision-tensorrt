@@ -61,3 +61,5 @@ def format_number(n: int) -> str:
 # Add multi-stream inference support for batching [2025-07-14T12:13:05]
 
 # Fix race condition in async inference pipeline [2025-07-15T11:35:16]
+
+# Profile INT8 versus FP16 accuracy on COCO [2025-07-16T19:24:34]

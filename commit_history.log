@@ -208,3 +208,4 @@
 [2025-07-14T09:54:09] Update TensorRT plugin structure for new API
 [2025-07-15T11:35:16] Fix race condition in async inference pipeline
 [2025-07-15T11:05:22] Optimize CUDA kernel shared memory allocation
+[2025-07-16T19:24:34] Profile INT8 versus FP16 accuracy on COCO
