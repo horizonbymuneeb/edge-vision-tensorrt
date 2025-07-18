@@ -63,3 +63,5 @@ def format_number(n: int) -> str:
 # Fix race condition in async inference pipeline [2025-07-15T11:35:16]
 
 # Profile INT8 versus FP16 accuracy on COCO [2025-07-16T19:24:34]
+
+# Compile YOLOv8 model to TensorRT engine [2025-07-18T19:37:50]
