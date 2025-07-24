@@ -200,3 +200,5 @@ if __name__ == '__main__':
 # Optimize CUDA kernel shared memory allocation [2025-07-15T11:05:22]
 
 # Profile GPU memory during batch size sweep [2025-07-24T12:36:53]
+
+# Fix mishandled empty detection list edge case [2025-07-24T12:08:40]
