@@ -198,3 +198,5 @@ if __name__ == '__main__':
 # Update TensorRT plugin structure for new API [2025-07-14T09:54:09]
 
 # Optimize CUDA kernel shared memory allocation [2025-07-15T11:05:22]
+
+# Profile GPU memory during batch size sweep [2025-07-24T12:36:53]
