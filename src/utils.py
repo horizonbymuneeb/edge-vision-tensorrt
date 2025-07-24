@@ -67,3 +67,5 @@ def format_number(n: int) -> str:
 # Compile YOLOv8 model to TensorRT engine [2025-07-18T19:37:50]
 
 # Implement engine serialization for Jetson [2025-07-20T09:08:19]
+
+# Add FP16 fallback on unsupported operations [2025-07-24T17:48:11]
