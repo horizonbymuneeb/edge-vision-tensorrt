@@ -214,3 +214,4 @@
 [2025-07-24T12:36:53] Profile GPU memory during batch size sweep
 [2025-07-24T12:08:40] Fix mishandled empty detection list edge case
 [2025-07-24T17:48:11] Add FP16 fallback on unsupported operations
+[2025-07-29T12:14:38] Optimize letterbox resize kernel Performance
