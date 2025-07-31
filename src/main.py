@@ -206,3 +206,5 @@ if __name__ == '__main__':
 # Optimize letterbox resize kernel Performance [2025-07-29T12:14:38]
 
 # Fix race condition in async inference pipeline [2025-07-30T12:12:31]
+
+# Update build scripts for TensorRT 8.6 [2025-07-31T12:18:59]
