@@ -69,3 +69,5 @@ def format_number(n: int) -> str:
 # Implement engine serialization for Jetson [2025-07-20T09:08:19]
 
 # Add FP16 fallback on unsupported operations [2025-07-24T17:48:11]
+
+# Optimize CUDA kernel shared memory allocation [2025-08-01T20:36:03]
