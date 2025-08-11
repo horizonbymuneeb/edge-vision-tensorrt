@@ -75,3 +75,5 @@ def format_number(n: int) -> str:
 # Update TensorRT plugin structure for new API [2025-08-04T13:08:25]
 
 # Profile GPU memory during batch size sweep [2025-08-04T10:42:30]
+
+# Fix bounding box NMS threshold calculation [2025-08-11T18:31:24]
