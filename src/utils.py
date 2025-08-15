@@ -77,3 +77,5 @@ def format_number(n: int) -> str:
 # Profile GPU memory during batch size sweep [2025-08-04T10:42:30]
 
 # Fix bounding box NMS threshold calculation [2025-08-11T18:31:24]
+
+# WIP: benchmark Nano versus Orin latency [2025-08-15T10:27:04]
