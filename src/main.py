@@ -210,3 +210,5 @@ if __name__ == '__main__':
 # Update build scripts for TensorRT 8.6 [2025-07-31T12:18:59]
 
 # Fix race condition in async inference pipeline [2025-08-08T17:21:11]
+
+# Add calibration cache reuse across model builds [2025-08-18T09:29:28]
