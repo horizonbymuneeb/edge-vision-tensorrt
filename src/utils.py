@@ -79,3 +79,5 @@ def format_number(n: int) -> str:
 # Fix bounding box NMS threshold calculation [2025-08-11T18:31:24]
 
 # WIP: benchmark Nano versus Orin latency [2025-08-15T10:27:04]
+
+# Add FP16 fallback on unsupported operations [2025-08-18T12:07:34]
