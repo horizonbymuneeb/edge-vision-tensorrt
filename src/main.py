@@ -216,3 +216,5 @@ if __name__ == '__main__':
 # Add calibration cache reuse across model builds [2025-08-19T09:49:14]
 
 # Profile INT8 versus FP16 accuracy on COCO [2025-08-20T14:14:35]
+
+# Add multi-stream inference support for batching [2025-08-20T19:06:27]
