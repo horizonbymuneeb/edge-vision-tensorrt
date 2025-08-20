@@ -214,3 +214,5 @@ if __name__ == '__main__':
 # Add calibration cache reuse across model builds [2025-08-18T09:29:28]
 
 # Add calibration cache reuse across model builds [2025-08-19T09:49:14]
+
+# Profile INT8 versus FP16 accuracy on COCO [2025-08-20T14:14:35]

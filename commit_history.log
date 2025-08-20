@@ -226,3 +226,4 @@
 [2025-08-18T09:29:28] Add calibration cache reuse across model builds
 [2025-08-18T12:07:34] Add FP16 fallback on unsupported operations
 [2025-08-19T09:49:14] Add calibration cache reuse across model builds
+[2025-08-20T14:14:35] Profile INT8 versus FP16 accuracy on COCO
