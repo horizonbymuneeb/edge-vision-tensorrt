@@ -218,3 +218,5 @@ if __name__ == '__main__':
 # Profile INT8 versus FP16 accuracy on COCO [2025-08-20T14:14:35]
 
 # Add multi-stream inference support for batching [2025-08-20T19:06:27]
+
+# Update TensorRT plugin structure for new API [2025-08-21T10:48:57]
