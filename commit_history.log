@@ -230,3 +230,4 @@
 [2025-08-20T19:06:27] Add multi-stream inference support for batching
 [2025-08-21T10:48:57] Update TensorRT plugin structure for new API
 [2025-08-21T16:41:28] Profile INT8 versus FP16 accuracy on COCO
+[2025-08-21T17:33:43] Add FP16 fallback on unsupported operations
