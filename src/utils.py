@@ -81,3 +81,5 @@ def format_number(n: int) -> str:
 # WIP: benchmark Nano versus Orin latency [2025-08-15T10:27:04]
 
 # Add FP16 fallback on unsupported operations [2025-08-18T12:07:34]
+
+# Profile INT8 versus FP16 accuracy on COCO [2025-08-21T16:41:28]
