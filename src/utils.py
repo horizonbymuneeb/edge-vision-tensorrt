@@ -89,3 +89,5 @@ def format_number(n: int) -> str:
 # Profile INT8 versus FP16 accuracy on COCO [2025-08-26T15:26:41]
 
 # Fix mishandled empty detection list edge case [2025-08-26T19:48:23]
+
+# Add multi-stream inference support for batching [2025-08-29T09:14:31]
