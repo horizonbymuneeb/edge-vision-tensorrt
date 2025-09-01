@@ -91,3 +91,5 @@ def format_number(n: int) -> str:
 # Fix mishandled empty detection list edge case [2025-08-26T19:48:23]
 
 # Add multi-stream inference support for batching [2025-08-29T09:14:31]
+
+# Optimize kernel launch overhead reduction [2025-09-01T12:18:40]
