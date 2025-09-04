@@ -222,3 +222,5 @@ if __name__ == '__main__':
 # Update TensorRT plugin structure for new API [2025-08-21T10:48:57]
 
 # Profile INT8 versus FP16 accuracy on COCO [2025-09-03T11:31:03]
+
+# Fix mishandled empty detection list edge case [2025-09-04T20:21:40]
