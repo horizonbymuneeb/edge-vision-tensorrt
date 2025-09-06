@@ -237,3 +237,4 @@
 [2025-09-01T12:18:40] Optimize kernel launch overhead reduction
 [2025-09-03T11:31:03] Profile INT8 versus FP16 accuracy on COCO
 [2025-09-04T20:21:40] Fix mishandled empty detection list edge case
+[2025-09-06T15:03:11] Profile INT8 versus FP16 accuracy on COCO
