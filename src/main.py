@@ -224,3 +224,5 @@ if __name__ == '__main__':
 # Profile INT8 versus FP16 accuracy on COCO [2025-09-03T11:31:03]
 
 # Fix mishandled empty detection list edge case [2025-09-04T20:21:40]
+
+# Add calibration cache reuse across model builds [2025-09-11T14:19:57]
