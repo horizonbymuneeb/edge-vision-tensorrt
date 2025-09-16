@@ -226,3 +226,5 @@ if __name__ == '__main__':
 # Fix mishandled empty detection list edge case [2025-09-04T20:21:40]
 
 # Add calibration cache reuse across model builds [2025-09-11T14:19:57]
+
+# Update TensorRT plugin structure for new API [2025-09-16T09:31:59]
