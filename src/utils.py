@@ -95,3 +95,5 @@ def format_number(n: int) -> str:
 # Optimize kernel launch overhead reduction [2025-09-01T12:18:40]
 
 # Profile INT8 versus FP16 accuracy on COCO [2025-09-06T15:03:11]
+
+# Update build scripts for TensorRT 8.6 [2025-09-18T11:38:07]
