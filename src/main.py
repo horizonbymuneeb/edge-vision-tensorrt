@@ -230,3 +230,5 @@ if __name__ == '__main__':
 # Update TensorRT plugin structure for new API [2025-09-16T09:31:59]
 
 # Add FP16 fallback on unsupported operations [2025-09-16T12:58:19]
+
+# Add calibration cache reuse across model builds [2025-09-18T20:27:59]
