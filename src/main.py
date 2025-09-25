@@ -234,3 +234,5 @@ if __name__ == '__main__':
 # Add calibration cache reuse across model builds [2025-09-18T20:27:59]
 
 # Add FP16 fallback on unsupported operations [2025-09-22T18:35:21]
+
+# Optimize CUDA kernel shared memory allocation [2025-09-25T14:58:44]
