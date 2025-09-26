@@ -236,3 +236,5 @@ if __name__ == '__main__':
 # Add FP16 fallback on unsupported operations [2025-09-22T18:35:21]
 
 # Optimize CUDA kernel shared memory allocation [2025-09-25T14:58:44]
+
+# Update TensorRT plugin structure for new API [2025-09-26T15:11:28]
