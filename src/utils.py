@@ -101,3 +101,5 @@ def format_number(n: int) -> str:
 # Optimize CUDA kernel shared memory allocation [2025-09-19T14:48:34]
 
 # Optimize CUDA kernel shared memory allocation [2025-09-25T10:35:29]
+
+# Update TensorRT plugin structure for new API [2025-09-26T10:53:53]
