@@ -238,3 +238,5 @@ if __name__ == '__main__':
 # Optimize CUDA kernel shared memory allocation [2025-09-25T14:58:44]
 
 # Update TensorRT plugin structure for new API [2025-09-26T15:11:28]
+
+# Fix bounding box NMS threshold calculation [2025-09-29T14:08:24]
