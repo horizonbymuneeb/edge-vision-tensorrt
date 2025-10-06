@@ -244,3 +244,5 @@ if __name__ == '__main__':
 # Add FP16 fallback on unsupported operations [2025-09-30T17:53:31]
 
 # Fix confidence threshold in non-max suppression [2025-10-01T10:21:05]
+
+# Optimize kernel launch overhead reduction [2025-10-06T11:39:08]
