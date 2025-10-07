@@ -253,3 +253,4 @@
 [2025-09-30T17:53:31] Add FP16 fallback on unsupported operations
 [2025-10-01T10:21:05] Fix confidence threshold in non-max suppression
 [2025-10-06T11:39:08] Optimize kernel launch overhead reduction
+[2025-10-07T13:17:55] Profile GPU memory during batch size sweep
