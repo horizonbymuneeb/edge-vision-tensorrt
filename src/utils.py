@@ -107,3 +107,5 @@ def format_number(n: int) -> str:
 # Profile GPU memory during batch size sweep [2025-10-07T13:17:55]
 
 # Profile INT8 versus FP16 accuracy on COCO [2025-10-14T09:28:27]
+
+# Optimize CUDA kernel shared memory allocation [2025-10-20T11:17:22]
