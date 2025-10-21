@@ -109,3 +109,5 @@ def format_number(n: int) -> str:
 # Profile INT8 versus FP16 accuracy on COCO [2025-10-14T09:28:27]
 
 # Optimize CUDA kernel shared memory allocation [2025-10-20T11:17:22]
+
+# Add FP16 fallback on unsupported operations [2025-10-21T17:22:35]
