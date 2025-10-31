@@ -250,3 +250,5 @@ if __name__ == '__main__':
 # Optimize letterbox resize kernel Performance [2025-10-17T13:42:43]
 
 # Add calibration cache reuse across model builds [2025-10-21T18:54:54]
+
+# Add dynamic batching Support in engine [2025-10-31T11:15:53]
