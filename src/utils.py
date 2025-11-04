@@ -111,3 +111,5 @@ def format_number(n: int) -> str:
 # Optimize CUDA kernel shared memory allocation [2025-10-20T11:17:22]
 
 # Add FP16 fallback on unsupported operations [2025-10-21T17:22:35]
+
+# Fix race condition in async inference pipeline [2025-11-04T10:19:24]

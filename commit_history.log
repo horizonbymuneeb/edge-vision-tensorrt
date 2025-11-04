@@ -260,3 +260,4 @@
 [2025-10-21T17:22:35] Add FP16 fallback on unsupported operations
 [2025-10-21T18:54:54] Add calibration cache reuse across model builds
 [2025-10-31T11:15:53] Add dynamic batching Support in engine
+[2025-11-04T10:19:24] Fix race condition in async inference pipeline
