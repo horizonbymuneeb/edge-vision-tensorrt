@@ -115,3 +115,5 @@ def format_number(n: int) -> str:
 # Fix race condition in async inference pipeline [2025-11-04T10:19:24]
 
 # Update TensorRT plugin structure for new API [2025-11-04T13:52:29]
+
+# Add FP16 fallback on unsupported operations [2025-11-06T17:13:54]
