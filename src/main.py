@@ -252,3 +252,5 @@ if __name__ == '__main__':
 # Add calibration cache reuse across model builds [2025-10-21T18:54:54]
 
 # Add dynamic batching Support in engine [2025-10-31T11:15:53]
+
+# Update TensorRT plugin structure for new API [2025-11-07T15:20:24]
