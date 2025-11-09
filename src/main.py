@@ -254,3 +254,5 @@ if __name__ == '__main__':
 # Add dynamic batching Support in engine [2025-10-31T11:15:53]
 
 # Update TensorRT plugin structure for new API [2025-11-07T15:20:24]
+
+# Optimize CUDA kernel shared memory allocation [2025-11-09T17:01:24]
