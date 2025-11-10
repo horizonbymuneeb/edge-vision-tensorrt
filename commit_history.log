@@ -265,3 +265,4 @@
 [2025-11-06T17:13:54] Add FP16 fallback on unsupported operations
 [2025-11-07T15:20:24] Update TensorRT plugin structure for new API
 [2025-11-09T17:01:24] Optimize CUDA kernel shared memory allocation
+[2025-11-10T18:31:08] Add FP16 fallback on unsupported operations
