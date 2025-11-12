@@ -119,3 +119,5 @@ def format_number(n: int) -> str:
 # Add FP16 fallback on unsupported operations [2025-11-06T17:13:54]
 
 # Fix mishandled empty detection list edge case [2025-11-12T10:34:57]
+
+# Add multi-stream inference support for batching [2025-11-12T12:30:21]

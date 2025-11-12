@@ -267,3 +267,4 @@
 [2025-11-09T17:01:24] Optimize CUDA kernel shared memory allocation
 [2025-11-10T18:31:08] Add FP16 fallback on unsupported operations
 [2025-11-12T10:34:57] Fix mishandled empty detection list edge case
+[2025-11-12T12:30:21] Add multi-stream inference support for batching
