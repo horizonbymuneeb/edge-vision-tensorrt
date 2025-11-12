@@ -117,3 +117,5 @@ def format_number(n: int) -> str:
 # Update TensorRT plugin structure for new API [2025-11-04T13:52:29]
 
 # Add FP16 fallback on unsupported operations [2025-11-06T17:13:54]
+
+# Fix mishandled empty detection list edge case [2025-11-12T10:34:57]
