@@ -121,3 +121,5 @@ def format_number(n: int) -> str:
 # Fix mishandled empty detection list edge case [2025-11-12T10:34:57]
 
 # Add multi-stream inference support for batching [2025-11-12T12:30:21]
+
+# Compile YOLOv8 model to TensorRT engine [2025-11-12T15:37:37]
