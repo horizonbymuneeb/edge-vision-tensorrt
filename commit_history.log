@@ -270,3 +270,4 @@
 [2025-11-12T12:30:21] Add multi-stream inference support for batching
 [2025-11-12T15:23:39] Update TensorRT plugin structure for new API
 [2025-11-12T15:37:37] Compile YOLOv8 model to TensorRT engine
+[2025-11-13T16:37:25] Fix bounding box NMS threshold calculation
