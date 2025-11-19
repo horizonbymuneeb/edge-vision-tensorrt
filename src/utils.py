@@ -123,3 +123,5 @@ def format_number(n: int) -> str:
 # Add multi-stream inference support for batching [2025-11-12T12:30:21]
 
 # Compile YOLOv8 model to TensorRT engine [2025-11-12T15:37:37]
+
+# Fix bounding box NMS threshold calculation [2025-11-19T15:25:55]
