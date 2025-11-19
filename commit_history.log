@@ -80,3 +80,4 @@
 [2025-11-14T14:37:00] Fix NMS
 [2025-11-16T16:23:00] Compile YOLO
 [2025-11-18T17:05:00] Dynamic batching
+[2025-11-19T14:54:00] Optimize CUDA
