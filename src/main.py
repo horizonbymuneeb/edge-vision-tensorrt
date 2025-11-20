@@ -262,3 +262,5 @@ if __name__ == '__main__':
 # Update TensorRT plugin structure for new API [2025-11-12T15:23:39]
 
 # Fix bounding box NMS threshold calculation [2025-11-13T16:37:25]
+
+# Add FP16 fallback on unsupported operations [2025-11-20T20:24:30]
