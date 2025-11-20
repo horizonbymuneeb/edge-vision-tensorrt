@@ -125,3 +125,5 @@ def format_number(n: int) -> str:
 # Compile YOLOv8 model to TensorRT engine [2025-11-12T15:37:37]
 
 # Fix bounding box NMS threshold calculation [2025-11-19T15:25:55]
+
+# Fix mishandled empty detection list edge case [2025-11-20T13:37:21]
