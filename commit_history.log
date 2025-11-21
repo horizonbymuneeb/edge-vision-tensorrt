@@ -274,3 +274,4 @@
 [2025-11-19T15:25:55] Fix bounding box NMS threshold calculation
 [2025-11-20T13:37:21] Fix mishandled empty detection list edge case
 [2025-11-20T20:24:30] Add FP16 fallback on unsupported operations
+[2025-11-21T13:11:20] Optimize CUDA kernel shared memory allocation

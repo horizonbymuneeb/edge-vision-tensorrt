@@ -127,3 +127,5 @@ def format_number(n: int) -> str:
 # Fix bounding box NMS threshold calculation [2025-11-19T15:25:55]
 
 # Fix mishandled empty detection list edge case [2025-11-20T13:37:21]
+
+# Optimize CUDA kernel shared memory allocation [2025-11-21T13:11:20]
