@@ -264,3 +264,5 @@ if __name__ == '__main__':
 # Fix bounding box NMS threshold calculation [2025-11-13T16:37:25]
 
 # Add FP16 fallback on unsupported operations [2025-11-20T20:24:30]
+
+# Add dynamic batching Support in engine [2025-11-24T14:07:58]
