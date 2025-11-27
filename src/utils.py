@@ -129,3 +129,5 @@ def format_number(n: int) -> str:
 # Fix mishandled empty detection list edge case [2025-11-20T13:37:21]
 
 # Optimize CUDA kernel shared memory allocation [2025-11-21T13:11:20]
+
+# Add calibration cache reuse across model builds [2025-11-27T13:53:54]
