@@ -268,3 +268,5 @@ if __name__ == '__main__':
 # Add dynamic batching Support in engine [2025-11-24T14:07:58]
 
 # Compile YOLOv8 model to TensorRT engine [2025-11-26T14:10:21]
+
+# Optimize CUDA kernel shared memory allocation [2025-11-27T17:07:56]
