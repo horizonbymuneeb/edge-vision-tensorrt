@@ -272,3 +272,5 @@ if __name__ == '__main__':
 # Optimize CUDA kernel shared memory allocation [2025-11-27T17:07:56]
 
 # Optimize letterbox resize kernel Performance [2025-11-30T17:17:24]
+
+# Add calibration cache reuse across model builds [2025-11-30T19:48:03]
