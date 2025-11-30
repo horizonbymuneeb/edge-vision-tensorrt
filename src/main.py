@@ -270,3 +270,5 @@ if __name__ == '__main__':
 # Compile YOLOv8 model to TensorRT engine [2025-11-26T14:10:21]
 
 # Optimize CUDA kernel shared memory allocation [2025-11-27T17:07:56]
+
+# Optimize letterbox resize kernel Performance [2025-11-30T17:17:24]
