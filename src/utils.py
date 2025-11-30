@@ -131,3 +131,5 @@ def format_number(n: int) -> str:
 # Optimize CUDA kernel shared memory allocation [2025-11-21T13:11:20]
 
 # Add calibration cache reuse across model builds [2025-11-27T13:53:54]
+
+# Implement DLA core assignment for layers [2025-11-30T12:53:19]

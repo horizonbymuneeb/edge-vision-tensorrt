@@ -279,3 +279,4 @@
 [2025-11-26T14:10:21] Compile YOLOv8 model to TensorRT engine
 [2025-11-27T17:07:56] Optimize CUDA kernel shared memory allocation
 [2025-11-27T13:53:54] Add calibration cache reuse across model builds
+[2025-11-30T12:53:19] Implement DLA core assignment for layers
