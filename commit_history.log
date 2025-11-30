@@ -281,3 +281,4 @@
 [2025-11-27T13:53:54] Add calibration cache reuse across model builds
 [2025-11-30T12:53:19] Implement DLA core assignment for layers
 [2025-11-30T17:17:24] Optimize letterbox resize kernel Performance
+[2025-11-30T15:15:57] Add multi-stream inference support for batching

@@ -133,3 +133,5 @@ def format_number(n: int) -> str:
 # Add calibration cache reuse across model builds [2025-11-27T13:53:54]
 
 # Implement DLA core assignment for layers [2025-11-30T12:53:19]
+
+# Add multi-stream inference support for batching [2025-11-30T15:15:57]
