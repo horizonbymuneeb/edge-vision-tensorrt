@@ -278,3 +278,5 @@ if __name__ == '__main__':
 # Add calibration cache reuse across model builds [2025-12-01T15:31:58]
 
 # Implement DLA core assignment for layers [2025-12-02T13:39:09]
+
+# Optimize CUDA kernel shared memory allocation [2025-12-05T19:27:22]
