@@ -139,3 +139,5 @@ def format_number(n: int) -> str:
 # Update TensorRT plugin structure for new API [2025-12-02T16:05:29]
 
 # Update build scripts for TensorRT 8.6 [2025-12-05T15:33:14]
+
+# Fix race condition in async inference pipeline [2025-12-08T17:47:54]
