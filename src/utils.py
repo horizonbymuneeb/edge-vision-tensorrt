@@ -143,3 +143,5 @@ def format_number(n: int) -> str:
 # Fix race condition in async inference pipeline [2025-12-08T17:47:54]
 
 # Implement DLA core assignment for layers [2025-12-08T18:09:45]
+
+# Fix mishandled empty detection list edge case [2025-12-11T12:34:17]
