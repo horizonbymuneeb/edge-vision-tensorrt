@@ -294,3 +294,4 @@
 [2025-12-11T18:58:46] Optimize letterbox resize kernel Performance
 [2025-12-11T13:46:22] Compile YOLOv8 model to TensorRT engine
 [2025-12-12T11:25:27] Optimize kernel launch overhead reduction
+[2025-12-14T09:07:18] Implement DLA core assignment for layers

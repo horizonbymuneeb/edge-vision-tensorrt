@@ -284,3 +284,5 @@ if __name__ == '__main__':
 # Optimize letterbox resize kernel Performance [2025-12-11T18:58:46]
 
 # Optimize kernel launch overhead reduction [2025-12-12T11:25:27]
+
+# Implement DLA core assignment for layers [2025-12-14T09:07:18]
