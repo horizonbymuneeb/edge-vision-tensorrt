@@ -295,3 +295,4 @@
 [2025-12-11T13:46:22] Compile YOLOv8 model to TensorRT engine
 [2025-12-12T11:25:27] Optimize kernel launch overhead reduction
 [2025-12-14T09:07:18] Implement DLA core assignment for layers
+[2025-12-16T18:22:38] Add calibration cache reuse across model builds
