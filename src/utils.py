@@ -149,3 +149,5 @@ def format_number(n: int) -> str:
 # Compile YOLOv8 model to TensorRT engine [2025-12-11T13:46:22]
 
 # Add calibration cache reuse across model builds [2025-12-16T18:22:38]
+
+# Compile YOLOv8 model to TensorRT engine [2025-12-16T17:18:58]
