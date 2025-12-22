@@ -286,3 +286,5 @@ if __name__ == '__main__':
 # Optimize kernel launch overhead reduction [2025-12-12T11:25:27]
 
 # Implement DLA core assignment for layers [2025-12-14T09:07:18]
+
+# Fix race condition in async inference pipeline [2025-12-22T16:58:51]
