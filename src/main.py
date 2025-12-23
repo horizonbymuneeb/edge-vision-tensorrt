@@ -288,3 +288,5 @@ if __name__ == '__main__':
 # Implement DLA core assignment for layers [2025-12-14T09:07:18]
 
 # Fix race condition in async inference pipeline [2025-12-22T16:58:51]
+
+# Add ONNX Simplifier preprocessing step [2025-12-23T12:16:39]
