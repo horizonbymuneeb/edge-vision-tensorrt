@@ -299,3 +299,4 @@
 [2025-12-16T17:18:58] Compile YOLOv8 model to TensorRT engine
 [2025-12-22T16:58:51] Fix race condition in async inference pipeline
 [2025-12-23T12:16:39] Add ONNX Simplifier preprocessing step
+[2025-12-24T18:30:31] Fix bounding box NMS threshold calculation

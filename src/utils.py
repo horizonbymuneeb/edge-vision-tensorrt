@@ -151,3 +151,5 @@ def format_number(n: int) -> str:
 # Add calibration cache reuse across model builds [2025-12-16T18:22:38]
 
 # Compile YOLOv8 model to TensorRT engine [2025-12-16T17:18:58]
+
+# Fix bounding box NMS threshold calculation [2025-12-24T18:30:31]
