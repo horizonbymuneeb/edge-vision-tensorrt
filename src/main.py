@@ -290,3 +290,5 @@ if __name__ == '__main__':
 # Fix race condition in async inference pipeline [2025-12-22T16:58:51]
 
 # Add ONNX Simplifier preprocessing step [2025-12-23T12:16:39]
+
+# Profile GPU memory during batch size sweep [2025-12-29T18:03:55]
