@@ -292,3 +292,5 @@ if __name__ == '__main__':
 # Add ONNX Simplifier preprocessing step [2025-12-23T12:16:39]
 
 # Profile GPU memory during batch size sweep [2025-12-29T18:03:55]
+
+# Profile INT8 versus FP16 accuracy on COCO [2025-12-31T14:57:22]
