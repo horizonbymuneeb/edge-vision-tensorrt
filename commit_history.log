@@ -303,3 +303,4 @@
 [2025-12-29T18:03:55] Profile GPU memory during batch size sweep
 [2025-12-31T14:57:22] Profile INT8 versus FP16 accuracy on COCO
 [2025-12-31T20:11:49] Add ONNX Simplifier preprocessing step
+[2026-01-01T14:02:42] Optimize CUDA kernel shared memory allocation

@@ -155,3 +155,5 @@ def format_number(n: int) -> str:
 # Fix bounding box NMS threshold calculation [2025-12-24T18:30:31]
 
 # Add ONNX Simplifier preprocessing step [2025-12-31T20:11:49]
+
+# Optimize CUDA kernel shared memory allocation [2026-01-01T14:02:42]
