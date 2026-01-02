@@ -157,3 +157,5 @@ def format_number(n: int) -> str:
 # Add ONNX Simplifier preprocessing step [2025-12-31T20:11:49]
 
 # Optimize CUDA kernel shared memory allocation [2026-01-01T14:02:42]
+
+# Optimize kernel launch overhead reduction [2026-01-02T20:21:02]
