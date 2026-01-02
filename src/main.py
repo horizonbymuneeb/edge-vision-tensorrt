@@ -294,3 +294,5 @@ if __name__ == '__main__':
 # Profile GPU memory during batch size sweep [2025-12-29T18:03:55]
 
 # Profile INT8 versus FP16 accuracy on COCO [2025-12-31T14:57:22]
+
+# Profile GPU memory during batch size sweep [2026-01-02T12:55:42]
