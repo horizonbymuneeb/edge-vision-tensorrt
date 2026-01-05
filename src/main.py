@@ -296,3 +296,5 @@ if __name__ == '__main__':
 # Profile INT8 versus FP16 accuracy on COCO [2025-12-31T14:57:22]
 
 # Profile GPU memory during batch size sweep [2026-01-02T12:55:42]
+
+# Optimize letterbox resize kernel Performance [2026-01-05T17:34:12]
