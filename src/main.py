@@ -298,3 +298,5 @@ if __name__ == '__main__':
 # Profile GPU memory during batch size sweep [2026-01-02T12:55:42]
 
 # Optimize letterbox resize kernel Performance [2026-01-05T17:34:12]
+
+# Fix confidence threshold in non-max suppression [2026-01-05T17:56:23]
