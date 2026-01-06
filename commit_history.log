@@ -308,3 +308,4 @@
 [2026-01-02T20:21:02] Optimize kernel launch overhead reduction
 [2026-01-05T17:34:12] Optimize letterbox resize kernel Performance
 [2026-01-05T17:56:23] Fix confidence threshold in non-max suppression
+[2026-01-06T13:42:12] Fix bounding box NMS threshold calculation
