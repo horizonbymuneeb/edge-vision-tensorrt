@@ -304,3 +304,5 @@ if __name__ == '__main__':
 # Fix bounding box NMS threshold calculation [2026-01-06T13:42:12]
 
 # Update TensorRT plugin structure for new API [2026-01-08T20:39:49]
+
+# Profile GPU memory during batch size sweep [2026-01-08T15:15:31]

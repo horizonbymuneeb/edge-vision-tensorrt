@@ -310,3 +310,4 @@
 [2026-01-05T17:56:23] Fix confidence threshold in non-max suppression
 [2026-01-06T13:42:12] Fix bounding box NMS threshold calculation
 [2026-01-08T20:39:49] Update TensorRT plugin structure for new API
+[2026-01-08T15:15:31] Profile GPU memory during batch size sweep
