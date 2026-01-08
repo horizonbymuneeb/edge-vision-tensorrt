@@ -302,3 +302,5 @@ if __name__ == '__main__':
 # Fix confidence threshold in non-max suppression [2026-01-05T17:56:23]
 
 # Fix bounding box NMS threshold calculation [2026-01-06T13:42:12]
+
+# Update TensorRT plugin structure for new API [2026-01-08T20:39:49]
