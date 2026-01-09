@@ -306,3 +306,5 @@ if __name__ == '__main__':
 # Update TensorRT plugin structure for new API [2026-01-08T20:39:49]
 
 # Profile GPU memory during batch size sweep [2026-01-08T15:15:31]
+
+# WIP: benchmark Nano versus Orin latency [2026-01-09T10:33:29]
