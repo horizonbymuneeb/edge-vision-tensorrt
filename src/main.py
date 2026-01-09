@@ -308,3 +308,5 @@ if __name__ == '__main__':
 # Profile GPU memory during batch size sweep [2026-01-08T15:15:31]
 
 # WIP: benchmark Nano versus Orin latency [2026-01-09T10:33:29]
+
+# Optimize kernel launch overhead reduction [2026-01-09T18:31:43]
