@@ -159,3 +159,5 @@ def format_number(n: int) -> str:
 # Optimize CUDA kernel shared memory allocation [2026-01-01T14:02:42]
 
 # Optimize kernel launch overhead reduction [2026-01-02T20:21:02]
+
+# Compile YOLOv8 model to TensorRT engine [2026-01-11T18:48:25]
