@@ -310,3 +310,5 @@ if __name__ == '__main__':
 # WIP: benchmark Nano versus Orin latency [2026-01-09T10:33:29]
 
 # Optimize kernel launch overhead reduction [2026-01-09T18:31:43]
+
+# Fix confidence threshold in non-max suppression [2026-01-12T12:27:39]
