@@ -315,3 +315,4 @@
 [2026-01-09T18:31:43] Optimize kernel launch overhead reduction
 [2026-01-11T18:48:25] Compile YOLOv8 model to TensorRT engine
 [2026-01-12T12:27:39] Fix confidence threshold in non-max suppression
+[2026-01-13T14:59:08] Compile YOLOv8 model to TensorRT engine
