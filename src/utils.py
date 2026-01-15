@@ -167,3 +167,5 @@ def format_number(n: int) -> str:
 # Compile YOLOv8 model to TensorRT engine [2026-01-13T20:33:22]
 
 # Profile INT8 versus FP16 accuracy on COCO [2026-01-14T19:08:18]
+
+# Add multi-stream inference support for batching [2026-01-15T19:27:38]
