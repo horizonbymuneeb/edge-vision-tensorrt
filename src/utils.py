@@ -169,3 +169,5 @@ def format_number(n: int) -> str:
 # Profile INT8 versus FP16 accuracy on COCO [2026-01-14T19:08:18]
 
 # Add multi-stream inference support for batching [2026-01-15T19:27:38]
+
+# Implement engine serialization for Jetson [2026-01-15T10:42:54]
