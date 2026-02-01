@@ -175,3 +175,5 @@ def format_number(n: int) -> str:
 # Add FP16 fallback on unsupported operations [2026-01-16T20:51:57]
 
 # Optimize letterbox resize kernel Performance [2026-01-19T15:31:37]
+
+# Implement engine serialization for Jetson [2026-02-01T09:39:29]
