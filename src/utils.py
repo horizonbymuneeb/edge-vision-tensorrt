@@ -177,3 +177,5 @@ def format_number(n: int) -> str:
 # Optimize letterbox resize kernel Performance [2026-01-19T15:31:37]
 
 # Implement engine serialization for Jetson [2026-02-01T09:39:29]
+
+# Profile GPU memory during batch size sweep [2026-02-02T17:20:08]
