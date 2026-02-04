@@ -314,3 +314,5 @@ if __name__ == '__main__':
 # Fix confidence threshold in non-max suppression [2026-01-12T12:27:39]
 
 # Optimize letterbox resize kernel Performance [2026-01-23T09:43:13]
+
+# Optimize kernel launch overhead reduction [2026-02-04T11:21:42]
