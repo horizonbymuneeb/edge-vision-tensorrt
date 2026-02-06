@@ -179,3 +179,5 @@ def format_number(n: int) -> str:
 # Implement engine serialization for Jetson [2026-02-01T09:39:29]
 
 # Profile GPU memory during batch size sweep [2026-02-02T17:20:08]
+
+# Update TensorRT plugin structure for new API [2026-02-06T10:41:23]

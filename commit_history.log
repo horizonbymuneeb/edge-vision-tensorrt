@@ -327,3 +327,4 @@
 [2026-02-02T17:20:08] Profile GPU memory during batch size sweep
 [2026-02-04T11:21:42] Optimize kernel launch overhead reduction
 [2026-02-05T19:06:02] Fix bounding box NMS threshold calculation
+[2026-02-06T10:41:23] Update TensorRT plugin structure for new API
