@@ -329,3 +329,4 @@
 [2026-02-05T19:06:02] Fix bounding box NMS threshold calculation
 [2026-02-06T10:41:23] Update TensorRT plugin structure for new API
 [2026-02-11T19:44:15] Optimize letterbox resize kernel Performance
+[2026-02-12T16:39:53] Implement DLA core assignment for layers

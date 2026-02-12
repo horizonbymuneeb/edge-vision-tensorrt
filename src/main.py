@@ -320,3 +320,5 @@ if __name__ == '__main__':
 # Fix bounding box NMS threshold calculation [2026-02-05T19:06:02]
 
 # Optimize letterbox resize kernel Performance [2026-02-11T19:44:15]
+
+# Implement DLA core assignment for layers [2026-02-12T16:39:53]
