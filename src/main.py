@@ -322,3 +322,5 @@ if __name__ == '__main__':
 # Optimize letterbox resize kernel Performance [2026-02-11T19:44:15]
 
 # Implement DLA core assignment for layers [2026-02-12T16:39:53]
+
+# WIP: benchmark Nano versus Orin latency [2026-02-12T15:26:36]
