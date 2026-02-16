@@ -332,3 +332,4 @@
 [2026-02-12T16:39:53] Implement DLA core assignment for layers
 [2026-02-12T15:26:36] WIP: benchmark Nano versus Orin latency
 [2026-02-13T17:55:58] Add dynamic batching Support in engine
+[2026-02-16T19:54:47] Add FP16 fallback on unsupported operations

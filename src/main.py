@@ -324,3 +324,5 @@ if __name__ == '__main__':
 # Implement DLA core assignment for layers [2026-02-12T16:39:53]
 
 # WIP: benchmark Nano versus Orin latency [2026-02-12T15:26:36]
+
+# Add FP16 fallback on unsupported operations [2026-02-16T19:54:47]
