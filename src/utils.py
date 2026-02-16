@@ -183,3 +183,5 @@ def format_number(n: int) -> str:
 # Update TensorRT plugin structure for new API [2026-02-06T10:41:23]
 
 # Add dynamic batching Support in engine [2026-02-13T17:55:58]
+
+# Add multi-stream inference support for batching [2026-02-16T09:42:50]
