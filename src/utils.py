@@ -185,3 +185,5 @@ def format_number(n: int) -> str:
 # Add dynamic batching Support in engine [2026-02-13T17:55:58]
 
 # Add multi-stream inference support for batching [2026-02-16T09:42:50]
+
+# Fix bounding box NMS threshold calculation [2026-02-18T16:50:58]
