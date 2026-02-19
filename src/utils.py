@@ -187,3 +187,5 @@ def format_number(n: int) -> str:
 # Add multi-stream inference support for batching [2026-02-16T09:42:50]
 
 # Fix bounding box NMS threshold calculation [2026-02-18T16:50:58]
+
+# Add FP16 fallback on unsupported operations [2026-02-19T18:13:48]
