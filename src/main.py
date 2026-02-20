@@ -326,3 +326,5 @@ if __name__ == '__main__':
 # WIP: benchmark Nano versus Orin latency [2026-02-12T15:26:36]
 
 # Add FP16 fallback on unsupported operations [2026-02-16T19:54:47]
+
+# Profile GPU memory during batch size sweep [2026-02-20T13:10:45]
