@@ -338,3 +338,4 @@
 [2026-02-19T18:13:48] Add FP16 fallback on unsupported operations
 [2026-02-20T13:10:45] Profile GPU memory during batch size sweep
 [2026-02-20T10:24:38] WIP: benchmark Nano versus Orin latency
+[2026-02-23T11:47:10] Add FP16 fallback on unsupported operations
