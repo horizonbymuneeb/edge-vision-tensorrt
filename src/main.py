@@ -330,3 +330,5 @@ if __name__ == '__main__':
 # Profile GPU memory during batch size sweep [2026-02-20T13:10:45]
 
 # Add FP16 fallback on unsupported operations [2026-02-23T11:47:10]
+
+# Optimize letterbox resize kernel Performance [2026-02-26T12:48:26]
