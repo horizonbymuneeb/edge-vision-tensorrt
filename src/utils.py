@@ -193,3 +193,5 @@ def format_number(n: int) -> str:
 # WIP: benchmark Nano versus Orin latency [2026-02-20T10:24:38]
 
 # Fix race condition in async inference pipeline [2026-03-02T12:27:16]
+
+# Update build scripts for TensorRT 8.6 [2026-03-02T09:52:00]
