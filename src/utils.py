@@ -191,3 +191,5 @@ def format_number(n: int) -> str:
 # Add FP16 fallback on unsupported operations [2026-02-19T18:13:48]
 
 # WIP: benchmark Nano versus Orin latency [2026-02-20T10:24:38]
+
+# Fix race condition in async inference pipeline [2026-03-02T12:27:16]
