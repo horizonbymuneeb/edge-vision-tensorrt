@@ -343,3 +343,4 @@
 [2026-02-26T20:39:01] Implement engine serialization for Jetson
 [2026-03-02T12:27:16] Fix race condition in async inference pipeline
 [2026-03-02T09:52:00] Update build scripts for TensorRT 8.6
+[2026-03-03T14:30:13] Implement DLA core assignment for layers

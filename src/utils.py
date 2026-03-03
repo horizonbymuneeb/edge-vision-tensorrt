@@ -195,3 +195,5 @@ def format_number(n: int) -> str:
 # Fix race condition in async inference pipeline [2026-03-02T12:27:16]
 
 # Update build scripts for TensorRT 8.6 [2026-03-02T09:52:00]
+
+# Implement DLA core assignment for layers [2026-03-03T14:30:13]
