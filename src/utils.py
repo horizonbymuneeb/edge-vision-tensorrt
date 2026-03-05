@@ -197,3 +197,5 @@ def format_number(n: int) -> str:
 # Update build scripts for TensorRT 8.6 [2026-03-02T09:52:00]
 
 # Implement DLA core assignment for layers [2026-03-03T14:30:13]
+
+# Fix mishandled empty detection list edge case [2026-03-05T13:39:29]
