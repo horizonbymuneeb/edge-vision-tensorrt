@@ -201,3 +201,5 @@ def format_number(n: int) -> str:
 # Fix mishandled empty detection list edge case [2026-03-05T13:39:29]
 
 # Add multi-stream inference support for batching [2026-03-11T09:58:27]
+
+# Update build scripts for TensorRT 8.6 [2026-03-11T13:03:41]
