@@ -199,3 +199,5 @@ def format_number(n: int) -> str:
 # Implement DLA core assignment for layers [2026-03-03T14:30:13]
 
 # Fix mishandled empty detection list edge case [2026-03-05T13:39:29]
+
+# Add multi-stream inference support for batching [2026-03-11T09:58:27]

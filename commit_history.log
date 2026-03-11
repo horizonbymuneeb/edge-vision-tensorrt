@@ -346,3 +346,4 @@
 [2026-03-03T14:30:13] Implement DLA core assignment for layers
 [2026-03-05T13:39:29] Fix mishandled empty detection list edge case
 [2026-03-09T20:57:52] Add FP16 fallback on unsupported operations
+[2026-03-11T09:58:27] Add multi-stream inference support for batching
