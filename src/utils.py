@@ -203,3 +203,5 @@ def format_number(n: int) -> str:
 # Add multi-stream inference support for batching [2026-03-11T09:58:27]
 
 # Update build scripts for TensorRT 8.6 [2026-03-11T13:03:41]
+
+# Fix confidence threshold in non-max suppression [2026-03-12T15:12:42]
