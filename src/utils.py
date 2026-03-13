@@ -207,3 +207,5 @@ def format_number(n: int) -> str:
 # Fix confidence threshold in non-max suppression [2026-03-12T15:12:42]
 
 # Optimize CUDA kernel shared memory allocation [2026-03-12T10:18:37]
+
+# Update build scripts for TensorRT 8.6 [2026-03-13T20:21:40]
