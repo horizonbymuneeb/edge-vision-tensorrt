@@ -336,3 +336,5 @@ if __name__ == '__main__':
 # Implement engine serialization for Jetson [2026-02-26T20:39:01]
 
 # Add FP16 fallback on unsupported operations [2026-03-09T20:57:52]
+
+# Update TensorRT plugin structure for new API [2026-03-13T18:14:17]
