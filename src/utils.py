@@ -209,3 +209,5 @@ def format_number(n: int) -> str:
 # Optimize CUDA kernel shared memory allocation [2026-03-12T10:18:37]
 
 # Update build scripts for TensorRT 8.6 [2026-03-13T20:21:40]
+
+# Fix mishandled empty detection list edge case [2026-03-17T09:02:14]
