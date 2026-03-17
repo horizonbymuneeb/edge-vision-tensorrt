@@ -211,3 +211,5 @@ def format_number(n: int) -> str:
 # Update build scripts for TensorRT 8.6 [2026-03-13T20:21:40]
 
 # Fix mishandled empty detection list edge case [2026-03-17T09:02:14]
+
+# Fix bounding box NMS threshold calculation [2026-03-17T16:13:40]
