@@ -340,3 +340,5 @@ if __name__ == '__main__':
 # Update TensorRT plugin structure for new API [2026-03-13T18:14:17]
 
 # Add calibration cache reuse across model builds [2026-03-16T18:11:49]
+
+# Optimize letterbox resize kernel Performance [2026-03-18T14:38:13]
