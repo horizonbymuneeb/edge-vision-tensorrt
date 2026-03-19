@@ -356,3 +356,4 @@
 [2026-03-17T09:02:14] Fix mishandled empty detection list edge case
 [2026-03-17T16:13:40] Fix bounding box NMS threshold calculation
 [2026-03-18T14:38:13] Optimize letterbox resize kernel Performance
+[2026-03-19T14:01:31] Fix bounding box NMS threshold calculation
