@@ -342,3 +342,5 @@ if __name__ == '__main__':
 # Add calibration cache reuse across model builds [2026-03-16T18:11:49]
 
 # Optimize letterbox resize kernel Performance [2026-03-18T14:38:13]
+
+# Profile INT8 versus FP16 accuracy on COCO [2026-03-23T14:15:18]
