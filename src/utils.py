@@ -215,3 +215,5 @@ def format_number(n: int) -> str:
 # Fix bounding box NMS threshold calculation [2026-03-17T16:13:40]
 
 # Fix bounding box NMS threshold calculation [2026-03-19T14:01:31]
+
+# Fix confidence threshold in non-max suppression [2026-03-25T15:36:57]
