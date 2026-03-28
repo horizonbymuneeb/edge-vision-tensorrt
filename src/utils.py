@@ -217,3 +217,5 @@ def format_number(n: int) -> str:
 # Fix bounding box NMS threshold calculation [2026-03-19T14:01:31]
 
 # Fix confidence threshold in non-max suppression [2026-03-25T15:36:57]
+
+# Compile YOLOv8 model to TensorRT engine [2026-03-28T17:25:47]
