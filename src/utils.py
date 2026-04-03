@@ -219,3 +219,5 @@ def format_number(n: int) -> str:
 # Fix confidence threshold in non-max suppression [2026-03-25T15:36:57]
 
 # Compile YOLOv8 model to TensorRT engine [2026-03-28T17:25:47]
+
+# Update TensorRT plugin structure for new API [2026-04-03T15:44:24]
