@@ -360,3 +360,4 @@
 [2026-03-23T14:15:18] Profile INT8 versus FP16 accuracy on COCO
 [2026-03-25T15:36:57] Fix confidence threshold in non-max suppression
 [2026-03-28T17:25:47] Compile YOLOv8 model to TensorRT engine
+[2026-04-03T13:13:28] Update build scripts for TensorRT 8.6

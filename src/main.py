@@ -344,3 +344,5 @@ if __name__ == '__main__':
 # Optimize letterbox resize kernel Performance [2026-03-18T14:38:13]
 
 # Profile INT8 versus FP16 accuracy on COCO [2026-03-23T14:15:18]
+
+# Update build scripts for TensorRT 8.6 [2026-04-03T13:13:28]
