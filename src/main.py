@@ -348,3 +348,5 @@ if __name__ == '__main__':
 # Update build scripts for TensorRT 8.6 [2026-04-03T13:13:28]
 
 # Add multi-stream inference support for batching [2026-04-03T16:34:59]
+
+# Fix mishandled empty detection list edge case [2026-04-06T18:22:19]

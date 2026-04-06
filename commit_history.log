@@ -363,3 +363,4 @@
 [2026-04-03T13:13:28] Update build scripts for TensorRT 8.6
 [2026-04-03T15:44:24] Update TensorRT plugin structure for new API
 [2026-04-03T16:34:59] Add multi-stream inference support for batching
+[2026-04-06T18:22:19] Fix mishandled empty detection list edge case
