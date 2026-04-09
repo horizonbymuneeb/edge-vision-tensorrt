@@ -350,3 +350,5 @@ if __name__ == '__main__':
 # Add multi-stream inference support for batching [2026-04-03T16:34:59]
 
 # Fix mishandled empty detection list edge case [2026-04-06T18:22:19]
+
+# Implement DLA core assignment for layers [2026-04-09T16:45:18]
