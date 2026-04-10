@@ -352,3 +352,5 @@ if __name__ == '__main__':
 # Fix mishandled empty detection list edge case [2026-04-06T18:22:19]
 
 # Implement DLA core assignment for layers [2026-04-09T16:45:18]
+
+# Implement DLA core assignment for layers [2026-04-10T11:39:10]
