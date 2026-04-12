@@ -221,3 +221,5 @@ def format_number(n: int) -> str:
 # Compile YOLOv8 model to TensorRT engine [2026-03-28T17:25:47]
 
 # Update TensorRT plugin structure for new API [2026-04-03T15:44:24]
+
+# Add ONNX Simplifier preprocessing step [2026-04-12T20:42:07]
