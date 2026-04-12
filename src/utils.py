@@ -223,3 +223,5 @@ def format_number(n: int) -> str:
 # Update TensorRT plugin structure for new API [2026-04-03T15:44:24]
 
 # Add ONNX Simplifier preprocessing step [2026-04-12T20:42:07]
+
+# Implement engine serialization for Jetson [2026-04-12T20:50:18]

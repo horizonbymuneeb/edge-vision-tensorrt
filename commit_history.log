@@ -367,3 +367,4 @@
 [2026-04-09T16:45:18] Implement DLA core assignment for layers
 [2026-04-10T11:39:10] Implement DLA core assignment for layers
 [2026-04-12T20:42:07] Add ONNX Simplifier preprocessing step
+[2026-04-12T20:50:18] Implement engine serialization for Jetson
