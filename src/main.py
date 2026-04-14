@@ -354,3 +354,5 @@ if __name__ == '__main__':
 # Implement DLA core assignment for layers [2026-04-09T16:45:18]
 
 # Implement DLA core assignment for layers [2026-04-10T11:39:10]
+
+# Fix bounding box NMS threshold calculation [2026-04-14T19:07:40]
