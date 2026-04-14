@@ -356,3 +356,5 @@ if __name__ == '__main__':
 # Implement DLA core assignment for layers [2026-04-10T11:39:10]
 
 # Fix bounding box NMS threshold calculation [2026-04-14T19:07:40]
+
+# WIP: benchmark Nano versus Orin latency [2026-04-14T13:17:56]
