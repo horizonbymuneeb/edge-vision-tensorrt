@@ -225,3 +225,5 @@ def format_number(n: int) -> str:
 # Add ONNX Simplifier preprocessing step [2026-04-12T20:42:07]
 
 # Implement engine serialization for Jetson [2026-04-12T20:50:18]
+
+# Add FP16 fallback on unsupported operations [2026-04-15T16:06:36]
