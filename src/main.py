@@ -358,3 +358,5 @@ if __name__ == '__main__':
 # Fix bounding box NMS threshold calculation [2026-04-14T19:07:40]
 
 # WIP: benchmark Nano versus Orin latency [2026-04-14T13:17:56]
+
+# Implement engine serialization for Jetson [2026-04-15T19:01:32]
