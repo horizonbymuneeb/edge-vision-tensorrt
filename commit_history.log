@@ -152,3 +152,4 @@
 [2026-04-10T10:10:00] Dynamic batching
 [2026-04-14T13:52:00] Dynamic batching
 [2026-04-14T20:41:00] Optimize CUDA
+[2026-04-16T12:19:00] Fix NMS
