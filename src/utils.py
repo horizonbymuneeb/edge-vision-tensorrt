@@ -231,3 +231,5 @@ def format_number(n: int) -> str:
 # Fix mishandled empty detection list edge case [2026-04-16T16:27:32]
 
 # Optimize kernel launch overhead reduction [2026-04-16T11:12:37]
+
+# Update build scripts for TensorRT 8.6 [2026-04-17T19:02:47]

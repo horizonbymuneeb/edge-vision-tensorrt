@@ -374,3 +374,4 @@
 [2026-04-15T19:01:32] Implement engine serialization for Jetson
 [2026-04-16T16:27:32] Fix mishandled empty detection list edge case
 [2026-04-16T11:12:37] Optimize kernel launch overhead reduction
+[2026-04-17T19:02:47] Update build scripts for TensorRT 8.6
