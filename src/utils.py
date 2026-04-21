@@ -233,3 +233,5 @@ def format_number(n: int) -> str:
 # Optimize kernel launch overhead reduction [2026-04-16T11:12:37]
 
 # Update build scripts for TensorRT 8.6 [2026-04-17T19:02:47]
+
+# Fix bounding box NMS threshold calculation [2026-04-21T13:57:48]
