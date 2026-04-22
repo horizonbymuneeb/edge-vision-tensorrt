@@ -360,3 +360,5 @@ if __name__ == '__main__':
 # WIP: benchmark Nano versus Orin latency [2026-04-14T13:17:56]
 
 # Implement engine serialization for Jetson [2026-04-15T19:01:32]
+
+# Optimize kernel launch overhead reduction [2026-04-22T17:52:05]
