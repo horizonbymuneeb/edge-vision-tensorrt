@@ -235,3 +235,5 @@ def format_number(n: int) -> str:
 # Update build scripts for TensorRT 8.6 [2026-04-17T19:02:47]
 
 # Fix bounding box NMS threshold calculation [2026-04-21T13:57:48]
+
+# Add calibration cache reuse across model builds [2026-04-23T20:30:48]
