@@ -379,3 +379,4 @@
 [2026-04-22T17:52:05] Optimize kernel launch overhead reduction
 [2026-04-23T20:30:48] Add calibration cache reuse across model builds
 [2026-04-26T16:08:58] Update build scripts for TensorRT 8.6
+[2026-04-26T15:10:53] Update TensorRT plugin structure for new API

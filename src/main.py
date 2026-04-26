@@ -362,3 +362,5 @@ if __name__ == '__main__':
 # Implement engine serialization for Jetson [2026-04-15T19:01:32]
 
 # Optimize kernel launch overhead reduction [2026-04-22T17:52:05]
+
+# Update TensorRT plugin structure for new API [2026-04-26T15:10:53]
