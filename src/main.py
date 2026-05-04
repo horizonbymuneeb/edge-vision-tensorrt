@@ -366,3 +366,5 @@ if __name__ == '__main__':
 # Update TensorRT plugin structure for new API [2026-04-26T15:10:53]
 
 # Optimize kernel launch overhead reduction [2026-04-29T09:21:09]
+
+# Fix race condition in async inference pipeline [2026-05-04T18:42:54]
