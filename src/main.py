@@ -370,3 +370,5 @@ if __name__ == '__main__':
 # Fix race condition in async inference pipeline [2026-05-04T18:42:54]
 
 # Fix race condition in async inference pipeline [2026-05-04T19:56:14]
+
+# Add calibration cache reuse across model builds [2026-05-11T09:23:56]
