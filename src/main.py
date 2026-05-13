@@ -374,3 +374,5 @@ if __name__ == '__main__':
 # Add calibration cache reuse across model builds [2026-05-11T09:23:56]
 
 # Add dynamic batching Support in engine [2026-05-12T11:44:07]
+
+# Fix mishandled empty detection list edge case [2026-05-13T09:07:09]

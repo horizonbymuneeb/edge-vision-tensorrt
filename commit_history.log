@@ -385,3 +385,4 @@
 [2026-05-04T19:56:14] Fix race condition in async inference pipeline
 [2026-05-11T09:23:56] Add calibration cache reuse across model builds
 [2026-05-12T11:44:07] Add dynamic batching Support in engine
+[2026-05-13T09:07:09] Fix mishandled empty detection list edge case
