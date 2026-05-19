@@ -239,3 +239,5 @@ def format_number(n: int) -> str:
 # Add calibration cache reuse across model builds [2026-04-23T20:30:48]
 
 # Update build scripts for TensorRT 8.6 [2026-04-26T16:08:58]
+
+# Update TensorRT plugin structure for new API [2026-05-19T17:10:43]

@@ -387,3 +387,4 @@
 [2026-05-12T11:44:07] Add dynamic batching Support in engine
 [2026-05-13T09:07:09] Fix mishandled empty detection list edge case
 [2026-05-14T13:26:09] Add calibration cache reuse across model builds
+[2026-05-19T17:10:43] Update TensorRT plugin structure for new API
