@@ -378,3 +378,5 @@ if __name__ == '__main__':
 # Fix mishandled empty detection list edge case [2026-05-13T09:07:09]
 
 # Add calibration cache reuse across model builds [2026-05-14T13:26:09]
+
+# Add ONNX Simplifier preprocessing step [2026-05-21T12:45:43]
