@@ -380,3 +380,5 @@ if __name__ == '__main__':
 # Add calibration cache reuse across model builds [2026-05-14T13:26:09]
 
 # Add ONNX Simplifier preprocessing step [2026-05-21T12:45:43]
+
+# Fix bounding box NMS threshold calculation [2026-05-24T10:23:55]

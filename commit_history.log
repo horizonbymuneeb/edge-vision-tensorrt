@@ -389,3 +389,4 @@
 [2026-05-14T13:26:09] Add calibration cache reuse across model builds
 [2026-05-19T17:10:43] Update TensorRT plugin structure for new API
 [2026-05-21T12:45:43] Add ONNX Simplifier preprocessing step
+[2026-05-24T10:23:55] Fix bounding box NMS threshold calculation
