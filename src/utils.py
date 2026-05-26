@@ -241,3 +241,5 @@ def format_number(n: int) -> str:
 # Update build scripts for TensorRT 8.6 [2026-04-26T16:08:58]
 
 # Update TensorRT plugin structure for new API [2026-05-19T17:10:43]
+
+# Implement DLA core assignment for layers [2026-05-26T13:11:44]
