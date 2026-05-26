@@ -243,3 +243,5 @@ def format_number(n: int) -> str:
 # Update TensorRT plugin structure for new API [2026-05-19T17:10:43]
 
 # Implement DLA core assignment for layers [2026-05-26T13:11:44]
+
+# WIP: benchmark Nano versus Orin latency [2026-05-26T11:40:20]
