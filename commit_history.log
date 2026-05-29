@@ -395,3 +395,4 @@
 [2026-05-26T10:16:00] Implement engine serialization for Jetson
 [2026-05-26T11:40:20] WIP: benchmark Nano versus Orin latency
 [2026-05-27T15:51:23] Profile INT8 versus FP16 accuracy on COCO
+[2026-05-29T11:05:09] Fix race condition in async inference pipeline

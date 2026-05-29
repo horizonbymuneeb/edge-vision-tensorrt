@@ -245,3 +245,5 @@ def format_number(n: int) -> str:
 # Implement DLA core assignment for layers [2026-05-26T13:11:44]
 
 # WIP: benchmark Nano versus Orin latency [2026-05-26T11:40:20]
+
+# Fix race condition in async inference pipeline [2026-05-29T11:05:09]
