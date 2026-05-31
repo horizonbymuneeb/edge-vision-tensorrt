@@ -247,3 +247,5 @@ def format_number(n: int) -> str:
 # WIP: benchmark Nano versus Orin latency [2026-05-26T11:40:20]
 
 # Fix race condition in async inference pipeline [2026-05-29T11:05:09]
+
+# Optimize kernel launch overhead reduction [2026-05-31T16:43:02]
