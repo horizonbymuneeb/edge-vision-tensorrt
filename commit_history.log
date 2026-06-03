@@ -398,3 +398,4 @@
 [2026-05-29T11:05:09] Fix race condition in async inference pipeline
 [2026-05-31T16:43:02] Optimize kernel launch overhead reduction
 [2026-06-01T13:40:54] Implement engine serialization for Jetson
+[2026-06-03T17:50:52] Fix mishandled empty detection list edge case

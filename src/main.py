@@ -390,3 +390,5 @@ if __name__ == '__main__':
 # Profile INT8 versus FP16 accuracy on COCO [2026-05-27T15:51:23]
 
 # Implement engine serialization for Jetson [2026-06-01T13:40:54]
+
+# Fix mishandled empty detection list edge case [2026-06-03T17:50:52]
