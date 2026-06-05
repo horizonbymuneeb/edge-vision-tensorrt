@@ -392,3 +392,5 @@ if __name__ == '__main__':
 # Implement engine serialization for Jetson [2026-06-01T13:40:54]
 
 # Fix mishandled empty detection list edge case [2026-06-03T17:50:52]
+
+# Profile GPU memory during batch size sweep [2026-06-05T13:43:58]
