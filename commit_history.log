@@ -400,3 +400,4 @@
 [2026-06-01T13:40:54] Implement engine serialization for Jetson
 [2026-06-03T17:50:52] Fix mishandled empty detection list edge case
 [2026-06-05T13:43:58] Profile GPU memory during batch size sweep
+[2026-06-09T13:32:45] Fix bounding box NMS threshold calculation

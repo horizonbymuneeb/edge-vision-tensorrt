@@ -249,3 +249,5 @@ def format_number(n: int) -> str:
 # Fix race condition in async inference pipeline [2026-05-29T11:05:09]
 
 # Optimize kernel launch overhead reduction [2026-05-31T16:43:02]
+
+# Fix bounding box NMS threshold calculation [2026-06-09T13:32:45]
